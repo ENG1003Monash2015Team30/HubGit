@@ -1,13 +1,12 @@
 Name 1:
-
-[insert stuff]
+Im Weiyu Li
 
 Name 2: Amina
 
 Made a change
 
 
-Name 3:
+Name 3: Patrick
 
 [insert stuff]
 
