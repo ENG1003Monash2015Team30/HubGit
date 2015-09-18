@@ -12,4 +12,4 @@ Name 3: Patrick
 
 Name 4:Weijian
 
-[insert stuff]
+I'm Weijian Sun.
