@@ -1,6 +1,5 @@
 Name 1:
-
-[insert stuff]
+Im Weiyu Li
 
 Name 2: Amina
 
