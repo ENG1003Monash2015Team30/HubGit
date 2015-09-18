@@ -10,6 +10,6 @@ Name 3: Patrick
 
 [insert stuff]
 
-Name 4:
+Name 4:Weijian
 
-[insert stuff]
+I'm Weijian Sun.
